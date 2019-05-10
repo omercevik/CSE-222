@@ -13,3 +13,5 @@ Homework 04 Part 5 ->  Traverse A Given 2D Array Spirally Clockwise Using Iterat
 Homework 05 -> Evaluation of Lexicographical, Euclidean and Bitmix in Image Using Priority Queues Data Structures and Threads
 
 Homework 06 -> Calculation of Natural Language Processing Operations Using HashMap Data Structures
+
+Homework 08 -> Finding Popularity of Nodes Using Graph Data Structure
