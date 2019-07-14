@@ -1,6 +1,6 @@
 # Gebze Technical University
 # Computer Engineering
-# Data Structures and Algorithms
+# CSE-222 Data Structures and Algorithms
 
 IntelliJ IDEA Projects in Java
 
