@@ -7,8 +7,8 @@ IntelliJ IDEA Projects in Java
 Working Operating System:
 
         Linux Ubuntu 18.04.3 LTS
-        Terminal Command Line
-
+        Intellij IDEA Ultimate/Community
+        
 Homework 01 -> It was handwritten.
 
 Homework 02 -> Recording of Machine Learning Experiments Using LinkedList Data Structure
