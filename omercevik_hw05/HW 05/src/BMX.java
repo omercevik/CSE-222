@@ -31,19 +31,19 @@ public class BMX implements Comparator
 
         for (int i = 7; i > 0; --i)
         {
-            RGB1 = getBit(r1,i);
-            RGB1 = RGB1 << 1;
+            RGB1 |= getBit(r1,i);
+            RGB1 <<= 1;
             RGB1 |= getBit(g1,i);
-            RGB1 = RGB1 << 1;
+            RGB1 <<= 1;
             RGB1 |= getBit(b1,i);
-            RGB1 = RGB1 << 1;
+            RGB1 <<= 1;
 
-            RGB2 = getBit(r2,i);
-            RGB2 = RGB2 << 1;
+            RGB2 |= getBit(r2,i);
+            RGB2 <<= 1;
             RGB2 |= getBit(g2,i);
-            RGB2 = RGB2 << 1;
+            RGB2 <<= 1;
             RGB2 |= getBit(b2,i);
-            RGB2 = RGB2 << 1;
+            RGB2 <<= 1;
         }
         return RGB1 > RGB2;
     }
